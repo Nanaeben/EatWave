@@ -22,7 +22,7 @@ struct ContentView: View {
             
             HomeView()
                 .tabItem {
-                    Image(systemName: "house")
+                    Image(systemName: "globe")
                     Text("Home")
                 }
         }
